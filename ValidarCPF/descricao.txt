@@ -1,1 +1,1 @@
-Projeto com linha de comando no terminal onde faço validações se o cpf é valido
+Projeto com linha de comando no terminal onde faço validações se o cpf é valido, esse projeto utilizo pra desenvolver a logica
